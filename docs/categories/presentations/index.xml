@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presentations on Utah Golang</title>
-    <link>https://utahgolang.com/categories/presentations/</link>
+    <link>http://utahgolang.com/categories/presentations/</link>
     <description>Recent content in Presentations on Utah Golang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://utahgolang.com/categories/presentations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://utahgolang.com/categories/presentations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OpenTracing with Jaeger</title>
-      <link>https://utahgolang.com/presentations/opentracing-with-jaeger/</link>
+      <link>http://utahgolang.com/presentations/opentracing-with-jaeger/</link>
       <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://utahgolang.com/presentations/opentracing-with-jaeger/</guid>
+      <guid>http://utahgolang.com/presentations/opentracing-with-jaeger/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Why Qualtrics Chose Go... and Why You Should Too</title>
-      <link>https://utahgolang.com/presentations/why-qualtrics-chose-go-and-why-you-should-too/</link>
+      <link>http://utahgolang.com/presentations/why-qualtrics-chose-go-and-why-you-should-too/</link>
       <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://utahgolang.com/presentations/why-qualtrics-chose-go-and-why-you-should-too/</guid>
+      <guid>http://utahgolang.com/presentations/why-qualtrics-chose-go-and-why-you-should-too/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Create your own DSL in Go</title>
-      <link>https://utahgolang.com/presentations/create-your-own-dsl-in-go/</link>
+      <link>http://utahgolang.com/presentations/create-your-own-dsl-in-go/</link>
       <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://utahgolang.com/presentations/create-your-own-dsl-in-go/</guid>
+      <guid>http://utahgolang.com/presentations/create-your-own-dsl-in-go/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Battle Harden Your APIs with Go Fuzz</title>
-      <link>https://utahgolang.com/presentations/battle-harden-apis-with-go-fuzz/</link>
+      <link>http://utahgolang.com/presentations/battle-harden-apis-with-go-fuzz/</link>
       <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://utahgolang.com/presentations/battle-harden-apis-with-go-fuzz/</guid>
+      <guid>http://utahgolang.com/presentations/battle-harden-apis-with-go-fuzz/</guid>
       <description>Our resident Go expert, Jason Newman, presented on GoFuzz for the August Lunch &amp;lsquo;n Go. The video is below, but it was our first recording so it isn&amp;rsquo;t great. We will get a microphone for the next presentation.
  </description>
     </item>
