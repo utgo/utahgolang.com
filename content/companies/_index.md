@@ -17,12 +17,12 @@ layout = "single"
     <tr>
       <td>Weave</td>
       <td>Lehi</td>
-      <td><a href="https://github.com/weave-lab?utf8=%E2%9C%93&amp;q=&amp;type=public&amp;language=go">https://github.com/weave-lab?utf8=%E2%9C%93&amp;q=&amp;type=public&amp;language=go</a></td>
+      <td><a href="https://github.com/weave-lab?language=go">https://github.com/weave-lab?language=go</a></td>
     </tr>
     <tr>
       <td>Nozzle</td>
       <td>South Jordan</td>
-      <td><a href="https://github.com/nozzle?utf8=%E2%9C%93&amp;tab=repositories&amp;q=&amp;type=&amp;language=go">https://github.com/nozzle?utf8=%E2%9C%93&amp;tab=repositories&amp;q=&amp;type=&amp;language=go</a></td>
+      <td><a href="https://github.com/nozzle?language=go">https://github.com/weave-lab?language=go</a></td>
     </tr>
     <tr>
       <td>Travelpass</td>
@@ -82,7 +82,7 @@ layout = "single"
     <tr>
       <td>Nuvi</td>
       <td>Lehi</td>
-      <td><a href="https://github.com/nuvi?utf8=%E2%9C%93&amp;q=&amp;type=public&amp;language=go">https://github.com/nuvi?utf8=%E2%9C%93&amp;q=&amp;type=public&amp;language=go</a></td>
+      <td><a href="https://github.com/nuvi?language=go">https://github.com/nuvi?language=go</a></td>
     </tr>
     <tr>
       <td>Nokē</td>
