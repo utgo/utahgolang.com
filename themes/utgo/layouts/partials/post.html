@@ -5,7 +5,7 @@
     <header class="jumbotron">
       <div class="container">
         <h1>{{ .Title }}</h1>
-        <h2 class="lead">{{ .Date.Format "January 2, 2006" }}</h2>
+        <h4 class="lead text-muted">Written by {{ .Params.Author }} on {{ .Date.Format "January 2, 2006" }}</h4>
       </div>
     </header>
 

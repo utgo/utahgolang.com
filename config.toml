@@ -25,13 +25,13 @@ publishDir = "docs"
     weight = 4
     url = "https://invite.slack.golangbridge.org"
 
+[[params.social]]
+    name = "IRC (#utahgophers)"
+    weight = 5
+    url = "irc://irc.freenode.net:6667/#utahgophers"
+
 # Menu links
 [[menu.main]]
-    name = "About"
-    weight = 1
-    url = "/about/"
-
-[[menu.main]]
     name = "Presentations"
-    weight = 2
+    weight = 1
     url  = "/presentations/"

@@ -4,6 +4,7 @@ author = "Clint Berry"
 date = "2015-08-27"
 slug = "battle-harden-apis-with-go-fuzz"
 tags = []
+layout = "post"
 categories = [
   "presentations"
 ]

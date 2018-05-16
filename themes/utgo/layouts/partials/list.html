@@ -7,17 +7,24 @@
   </header>
 
   <div class="container">
+    <div class="row">
 
-    <ul>
       {{ range .Paginator.Pages }}
-      <li>
-        <span>{{ .Date.Format "January 2, 2006" }}</span>
-        <a href="{{ .URL }}">{{ .Title }}</a>
-      </li>
+      <div class="col-md-4">
+        <div class="card mb-4">
+          <img class="card-img-top" src="http://via.placeholder.com/350x150" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title"><a href="{{ .URL }}">{{ .Title | truncate 30 }}</a></h5>
+            <p class="card-subtitle text-muted">{{ .Date.Format "January 2, 2006" }}</p>
+          </div>
+        </div>
+      </div>
       {{ end }}
-    </ul>
 
-      {{ partial "pagination.html" . }}
+      </div>
+    </div>
+
+    {{ partial "pagination.html" . }}
 
   </div>
 
