@@ -10,7 +10,7 @@
   <base href="{{ .Site.BaseURL }}">
   <link rel="canonical" href="{{ .Permalink }}">
 
-  <link rel="stylesheet" href="{{ " css/main.css " | absURL }}">
+  <link rel="stylesheet" href="{{ "css/main.css" | absURL }}">
   {{ range .Site.Params.custom_css }}
   <link rel="stylesheet" href="{{ . | absURL }}">
   {{ end }}
@@ -28,7 +28,7 @@
   {{ block "content" . }}{{ end }}
   {{ partial "footer.html" . }}
 
-  <script src="{{ " js/main.js " | absURL }}"></script>
+  <script src="{{ "js/main.js" | absURL }}"></script>
 
   {{ template "_internal/google_analytics.html" . }}
 
