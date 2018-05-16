@@ -1,0 +1,102 @@
++++
+title = "Companies"
+subtitle = "Utah Companies Using Go in Production"
+slug = "companies"
+layout = "single"
++++
+
+<table class="table">
+  <thead>
+    <tr>
+      <th>Company Name</th>
+      <th>City</th>
+      <th>Proof</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Weave</td>
+      <td>Lehi</td>
+      <td><a href="https://github.com/weave-lab?utf8=%E2%9C%93&amp;q=&amp;type=public&amp;language=go">https://github.com/weave-lab?utf8=%E2%9C%93&amp;q=&amp;type=public&amp;language=go</a></td>
+    </tr>
+    <tr>
+      <td>Nozzle</td>
+      <td>South Jordan</td>
+      <td><a href="https://github.com/nozzle?utf8=%E2%9C%93&amp;tab=repositories&amp;q=&amp;type=&amp;language=go">https://github.com/nozzle?utf8=%E2%9C%93&amp;tab=repositories&amp;q=&amp;type=&amp;language=go</a></td>
+    </tr>
+    <tr>
+      <td>Travelpass</td>
+      <td>Lehi</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Light Code Labs</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Circlepix</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Canopy</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>OC Tanner</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nav	Draper</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Qualtrics	Provo</td>
+      <td></td>
+      <td><a href="https://www.youtube.com/watch?v=8wmEL0JwHQA" rel="nofollow">https://www.youtube.com/watch?v=8wmEL0JwHQA</a></td>
+    </tr>
+    <tr>
+      <td>Voonami</td>
+      <td>Orem/West Valley</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TechCyte</td>
+      <td>Orem</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Smart Vision Works</td>
+      <td>Orem</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Solutionreach</td>
+      <td>Lehi</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Nuvi</td>
+      <td>Lehi</td>
+      <td><a href="https://github.com/nuvi?utf8=%E2%9C%93&amp;q=&amp;type=public&amp;language=go">https://github.com/nuvi?utf8=%E2%9C%93&amp;q=&amp;type=public&amp;language=go</a></td>
+    </tr>
+    <tr>
+      <td>Nokē</td>
+      <td>Lehi</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Vivint</td>
+      <td>Lehi</td>
+      <td><a href="https://github.com/vivint/infectious">https://github.com/vivint/infectious</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="alert alert-light text-center" role="alert">
+  <p class="mb-0">Want your company added? Send us a <a href="https://github.com/utgo/utahgolang.site/pulls">pull request</a>!</p>
+</div>
