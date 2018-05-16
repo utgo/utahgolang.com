@@ -50,8 +50,8 @@ layout = "single"
       <td></td>
     </tr>
     <tr>
-      <td>Nav	Draper</td>
-      <td></td>
+      <td>Nav</td>
+      <td>Draper</td>
       <td></td>
     </tr>
     <tr>
