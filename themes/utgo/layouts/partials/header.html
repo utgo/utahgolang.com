@@ -7,13 +7,13 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
-      {{ with .Site.Menus.main }}
       <ul class="navbar-nav mr-auto">
       </ul>
+      {{ with .Site.Menus.main }}
       <ul class="navbar-nav">
         {{ range sort . }}
         <li class="nav-item">
-          <a class="nav-link {{ if or ($.IsMenuCurrent " main " .) ($.HasMenuCurrent "main " .) }} active{{ end }}" href="{{ .URL }}">
+          <a class="nav-link {{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }} active{{ end }}" href="{{ .URL | absURL }}">
             {{ .Name }}
           </a>
         </li>
