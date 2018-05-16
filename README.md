@@ -1,6 +1,6 @@
 # Utah Golang Static Site
 
-The Utah Golang community site.
+The Utah Golang User Group website.
 
 ## Dependencies
 
