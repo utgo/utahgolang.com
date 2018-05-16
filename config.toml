@@ -2,6 +2,7 @@ baseURL = "https://utahgolang.com/"
 languageCode = "en-us"
 title = "Utah Golang"
 theme = "utgo"
+publishDir = "docs"
 
 # Social links
 [[params.social]]
