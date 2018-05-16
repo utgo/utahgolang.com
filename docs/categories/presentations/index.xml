@@ -6,10 +6,37 @@
     <description>Recent content in Presentations on Utah Golang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://utgo.github.io/utahgolang.site/categories/presentations/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenTracing with Jaeger</title>
+      <link>https://utgo.github.io/utahgolang.site/presentations/opentracing-with-jaeger/</link>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://utgo.github.io/utahgolang.site/presentations/opentracing-with-jaeger/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Why Qualtrics Chose Go... and Why You Should Too</title>
+      <link>https://utgo.github.io/utahgolang.site/presentations/why-qualtrics-chose-go-and-why-you-should-too/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://utgo.github.io/utahgolang.site/presentations/why-qualtrics-chose-go-and-why-you-should-too/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Create your own DSL in Go</title>
+      <link>https://utgo.github.io/utahgolang.site/presentations/create-your-own-dsl-in-go/</link>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://utgo.github.io/utahgolang.site/presentations/create-your-own-dsl-in-go/</guid>
+      <description> </description>
+    </item>
     
     <item>
       <title>Battle Harden Your APIs with Go Fuzz</title>
