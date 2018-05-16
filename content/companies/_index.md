@@ -92,7 +92,7 @@ layout = "single"
     <tr>
       <td>Vivint</td>
       <td>Lehi</td>
-      <td><a href="https://github.com/vivint/infectious">https://github.com/vivint/infectious</a></td>
+      <td><a href="https://github.com/vivint?language=go">https://github.com/vivint?language=go</a></td>
     </tr>
   </tbody>
 </table>
