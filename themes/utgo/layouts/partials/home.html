@@ -1,12 +1,21 @@
-<section>
-  <div>
-    <h1>{{ .Site.Title }}</h1>
-    {{ with .Site.Params.social }}
-    <ul>
-      {{ range sort .}}
-      <li><a href="{{ .url }}">{{ .name }}</a></li>
-      {{ end }}
-    </ul>
+<section class="container">
+  <div class="text-center v-center">
+    <div>
+
+      <h1 class="mb-4"><img src="{{ "img/navbar-brand.png" | absURL }}" style="margin-left: -25px" alt="{{ .Site.Title }}"></h1>
+      <h2 class="lead">Home of the Utah Golang User Group</h2>
+
+      {{ with .Site.Params.social }}
+      <div>
+        <ul class="nav justify-content-center">
+          {{ range sort .}}
+          <li class="nav-item"><a class="nav-link" href="{{ .url }}">{{ .name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+
+    </div>
     {{ end }}
+
   </div>
 </section>

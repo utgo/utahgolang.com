@@ -9,14 +9,17 @@ publishDir = "docs"
     name = "Meetup"
     weight = 1
     url = "https://www.meetup.com/utahgophers/"
+
 [[params.social]]
-    name = "Github"
+    name = "GitHub"
     weight = 2
     url = "https://github.com/utgo/"
+
 [[params.social]]
     name = "Twitter"
     weight = 3
     url = "https://twitter.com/UtahGolang"
+
 [[params.social]]
     name = "Slack (#utah)"
     weight = 4
@@ -24,10 +27,11 @@ publishDir = "docs"
 
 # Menu links
 [[menu.main]]
-    name = "Presentations"
-    weight = 1
-    url  = "/presentations/"
-[[menu.main]]
     name = "About"
-    weight = 2
+    weight = 1
     url = "/about/"
+
+[[menu.main]]
+    name = "Presentations"
+    weight = 2
+    url  = "/presentations/"

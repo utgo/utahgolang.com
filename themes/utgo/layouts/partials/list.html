@@ -1,11 +1,25 @@
 <section>
-  <h1 class="title">{{ .Title }}</h1>
-  <ul>
-    {{ range .Paginator.Pages }}
-    <li>
-      <span>{{ .Date.Format "January 2, 2006" }}</span><a href="{{ .URL }}">{{ .Title }}</a>
-    </li>
-    {{ end }}
-  </ul>
-  {{ partial "pagination.html" . }}
+
+  <header class="jumbotron">
+    <div class="container">
+      <h1>{{ .Title }}</h1>
+    </div>
+  </header>
+
+  <div class="container">
+
+    <ul>
+      {{ range .Paginator.Pages }}
+      <li>
+        <span>{{ .Date.Format "January 2, 2006" }}</span>
+        <a href="{{ .URL }}">{{ .Title }}</a>
+      </li>
+      {{ end }}
+    </ul>
+
+      {{ partial "pagination.html" . }}
+
+  </div>
+
 </section>
+

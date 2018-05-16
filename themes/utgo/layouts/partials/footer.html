@@ -1,3 +1,12 @@
 <footer class="footer">
-  Powered by <a href="https://gohugo.io/">Hugo</a>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        Copyright &copy; {{ dateFormat "2006" now }} {{ .Site.Title }}
+      </div>
+      <div class="col text-right">
+        Powered by <a href="https://gohugo.io/">Hugo</a>
+      </div>
+    </div>
+  </div>
 </footer>
