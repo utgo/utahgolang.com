@@ -6,31 +6,34 @@ publishDir = "docs"
 SectionPagesMenu = "main"
 
 # Social links
-[params]
-  [[params.social]]
-      name = "Meetup"
-      weight = 1
-      url = "https://www.meetup.com/utahgophers/"
+[[params.social]]
+    name = "Meetup"
+    weight = 1
+    url = "https://www.meetup.com/utahgophers/"
 
-  [[params.social]]
-      name = "GitHub"
-      weight = 2
-      url = "https://github.com/utgo/"
+[[params.social]]
+    name = "GitHub"
+    weight = 2
+    url = "https://github.com/utgo/"
 
-  [[params.social]]
-      name = "Twitter"
-      weight = 3
-      url = "https://twitter.com/UtahGolang"
+[[params.social]]
+    name = "Twitter"
+    weight = 3
+    url = "https://twitter.com/UtahGolang"
 
-  [[params.social]]
-      name = "Slack (#utah)"
-      weight = 4
-      url = "https://invite.slack.golangbridge.org"
+[[params.social]]
+    name = "Slack (#utah)"
+    weight = 4
+    url = "https://invite.slack.golangbridge.org"
 
-  [[params.social]]
-      name = "IRC (#utahgophers)"
-      weight = 5
-      url = "irc://irc.freenode.net:6667/#utahgophers"
+[[params.social]]
+    name = "IRC (#utahgophers)"
+    weight = 5
+    url = "irc://irc.freenode.net:6667/#utahgophers"
+
+# Open Source URL
+[params.github]
+    url = "https://github.com/utgo"
 
 # Menu links
 # All content aggregates are automatically included.
