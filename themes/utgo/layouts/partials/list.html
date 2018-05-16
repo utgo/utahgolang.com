@@ -12,11 +12,7 @@
       {{ range .Paginator.Pages }}
       <div class="col-md-4">
         <div class="card mb-4">
-          {{ with .Params.Thumbnail }}
-          <img class="card-img-top" src="{{ . | absURL }}" alt="Card image cap">
-          {{ else }}
-          <img class="card-img-top" src="http://via.placeholder.com/350x150" alt="Card image cap">
-          {{ end }}
+          <a href="{{ .URL | absURL }}"><img class="card-img-top" src="{{ .Params.Thumbnail | absURL }}" alt="Card image cap"></a>
           <div class="card-body">
             <h5 class="card-title"><a href="{{ .URL | absURL }}">{{ .Title | truncate 30 }}</a></h5>
             <p class="card-subtitle text-muted">{{ .Date.Format "January 2, 2006" }}</p>

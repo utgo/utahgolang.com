@@ -1,6 +1,6 @@
 +++
 title = "Battle Harden Your APIs with Go Fuzz"
-author = "Clint Berry"
+author = "Jason Newman"
 date = "2015-08-27"
 slug = "battle-harden-apis-with-go-fuzz"
 tags = []
