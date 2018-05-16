@@ -8,6 +8,7 @@ layout = "post"
 categories = [
   "presentations"
 ]
+thumbnail = "img/presentation-thumbnails/battle-harden-apis-with-go-fuzz.png"
 +++
 
 Our resident Go expert, Jason Newman, presented on GoFuzz for the August Lunch
