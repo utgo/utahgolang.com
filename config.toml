@@ -1,4 +1,4 @@
-baseURL = "https://utgo.github.io/utahgolang.site/"
+baseURL = "https://utahgolang.com/"
 languageCode = "en-us"
 title = "Utah Golang"
 theme = "utgo"
