@@ -4,8 +4,10 @@ slug = "resources"
 layout = "single"
 +++
 
-> This page contains a small subset of the resources shared [here](https://dave.cheney.net/resources-for-new-go-programmers)
-> for easy-access for the user-group.
+<div class="alert alert-light text-center" role="alert">
+  <p class="mb-0">For the time being, this list is a subset of <a href="https://dave.cheney.net/resources-for-new-go-programmers" rel="nofollow">resources for new go programmers</a>.</p>
+  <p class="mb-0">Over time, we intend to curate a list more suitable to the community and the presentations.</p>
+</div>
 
 ### Books
 

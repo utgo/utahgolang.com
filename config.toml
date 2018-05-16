@@ -33,8 +33,5 @@ SectionPagesMenu = "main"
       url = "irc://irc.freenode.net:6667/#utahgophers"
 
 # Menu links
+# All content aggregates are automatically included.
 [menu]
-  [[menu.main]]
-      name = "Home"
-      weight = 1
-      url  = "/"
