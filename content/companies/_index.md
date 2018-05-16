@@ -55,8 +55,8 @@ layout = "single"
       <td></td>
     </tr>
     <tr>
-      <td>Qualtrics	Provo</td>
-      <td></td>
+      <td>Qualtrics</td>
+      <td>Provo</td>
       <td><a href="https://www.youtube.com/watch?v=8wmEL0JwHQA" rel="nofollow">https://www.youtube.com/watch?v=8wmEL0JwHQA</a></td>
     </tr>
     <tr>
