@@ -1,0 +1,32 @@
+baseURL = "https://utahgolang.com/"
+languageCode = "en-us"
+title = "Utah Golang"
+theme = "utgo"
+
+# Social links
+[[params.social]]
+    name = "Meetup"
+    weight = 1
+    url = "https://www.meetup.com/utahgophers/"
+[[params.social]]
+    name = "Github"
+    weight = 2
+    url = "https://github.com/utgo/"
+[[params.social]]
+    name = "Twitter"
+    weight = 3
+    url = "https://twitter.com/UtahGolang"
+[[params.social]]
+    name = "Slack (#utah)"
+    weight = 4
+    url = "https://invite.slack.golangbridge.org"
+
+# Menu links
+[[menu.main]]
+    name = "Presentations"
+    weight = 1
+    url  = "/presentations/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"

@@ -1,0 +1,12 @@
+<section>
+  <div>
+    <h1>{{ .Site.Title }}</h1>
+    {{ with .Site.Params.social }}
+    <ul>
+      {{ range sort .}}
+      <li><a href="{{ .url }}">{{ .name }}</a></li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </div>
+</section>
