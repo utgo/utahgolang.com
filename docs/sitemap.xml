@@ -24,6 +24,10 @@
   </url>
   
   <url>
+    <loc>https://utgo.github.io/utahgolang.site/resources/</loc>
+  </url>
+  
+  <url>
     <loc>https://utgo.github.io/utahgolang.site/tags/</loc>
     <priority>0</priority>
   </url>

@@ -3,35 +3,38 @@ languageCode = "en-us"
 title = "Utah Golang"
 theme = "utgo"
 publishDir = "docs"
+SectionPagesMenu = "main"
 
 # Social links
-[[params.social]]
-    name = "Meetup"
-    weight = 1
-    url = "https://www.meetup.com/utahgophers/"
+[params]
+  [[params.social]]
+      name = "Meetup"
+      weight = 1
+      url = "https://www.meetup.com/utahgophers/"
 
-[[params.social]]
-    name = "GitHub"
-    weight = 2
-    url = "https://github.com/utgo/"
+  [[params.social]]
+      name = "GitHub"
+      weight = 2
+      url = "https://github.com/utgo/"
 
-[[params.social]]
-    name = "Twitter"
-    weight = 3
-    url = "https://twitter.com/UtahGolang"
+  [[params.social]]
+      name = "Twitter"
+      weight = 3
+      url = "https://twitter.com/UtahGolang"
 
-[[params.social]]
-    name = "Slack (#utah)"
-    weight = 4
-    url = "https://invite.slack.golangbridge.org"
+  [[params.social]]
+      name = "Slack (#utah)"
+      weight = 4
+      url = "https://invite.slack.golangbridge.org"
 
-[[params.social]]
-    name = "IRC (#utahgophers)"
-    weight = 5
-    url = "irc://irc.freenode.net:6667/#utahgophers"
+  [[params.social]]
+      name = "IRC (#utahgophers)"
+      weight = 5
+      url = "irc://irc.freenode.net:6667/#utahgophers"
 
 # Menu links
-[[menu.main]]
-    name = "Presentations"
-    weight = 1
-    url  = "/presentations/"
+[menu]
+  [[menu.main]]
+      name = "Home"
+      weight = 1
+      url  = "/"
