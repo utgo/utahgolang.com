@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Utah Golang</title>
-    <link>https://utahgolang.com/categories/</link>
+    <link>https://utgo.github.io/utahgolang.site/categories/</link>
     <description>Recent content in Categories on Utah Golang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://utahgolang.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://utgo.github.io/utahgolang.site/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Presentations</title>
-      <link>https://utahgolang.com/categories/presentations/</link>
+      <link>https://utgo.github.io/utahgolang.site/categories/presentations/</link>
       <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://utahgolang.com/categories/presentations/</guid>
+      <guid>https://utgo.github.io/utahgolang.site/categories/presentations/</guid>
       <description></description>
     </item>
     

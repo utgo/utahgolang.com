@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://utahgolang.com/presentations/battle-harden-apis-with-go-fuzz/</loc>
+    <loc>https://utgo.github.io/utahgolang.site/presentations/battle-harden-apis-with-go-fuzz/</loc>
     <lastmod>2015-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://utahgolang.com/about/</loc>
+    <loc>https://utgo.github.io/utahgolang.site/about/</loc>
   </url>
   
   <url>
-    <loc>https://utahgolang.com/categories/</loc>
+    <loc>https://utgo.github.io/utahgolang.site/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://utahgolang.com/categories/presentations/</loc>
+    <loc>https://utgo.github.io/utahgolang.site/categories/presentations/</loc>
     <lastmod>2015-08-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://utahgolang.com/presentations/</loc>
+    <loc>https://utgo.github.io/utahgolang.site/presentations/</loc>
     <lastmod>2015-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://utahgolang.com/tags/</loc>
+    <loc>https://utgo.github.io/utahgolang.site/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://utahgolang.com/</loc>
+    <loc>https://utgo.github.io/utahgolang.site/</loc>
     <lastmod>2015-08-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
