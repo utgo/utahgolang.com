@@ -22,7 +22,7 @@ layout = "single"
     <tr>
       <td>Nozzle</td>
       <td>South Jordan</td>
-      <td><a href="https://github.com/nozzle?language=go">https://github.com/weave-lab?language=go</a></td>
+      <td><a href="https://github.com/nozzle?language=go">https://github.com/nozzle?language=go</a></td>
     </tr>
     <tr>
       <td>Travelpass</td>
