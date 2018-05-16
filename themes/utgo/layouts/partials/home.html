@@ -6,16 +6,20 @@
       <h2 class="lead">Home of the Utah Golang User Group</h2>
 
       {{ with .Site.Params.social }}
-      <div>
+      <div class="mb-4">
         <ul class="nav justify-content-center">
           {{ range sort .}}
           <li class="nav-item"><a class="nav-link" href="{{ .url }}">{{ .name }}</a></li>
           {{ end }}
         </ul>
       </div>
+      {{ end }}
+
+      <p><img src="{{ "img/gopherski.png" | absURL }}" width="80" alt="gopherski"></p>
+
 
     </div>
-    {{ end }}
+
 
   </div>
 </section>
