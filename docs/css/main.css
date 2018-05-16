@@ -4,7 +4,30 @@ html {
 }
 
 body {
-  margin-bottom: 60px; /* Margin bottom by footer height */
+  background: #fefefe;
+  margin-bottom: 150px; /* Margin bottom by footer height + "margin" */
+  font-family: 'Oxygen', sans-serif;
+  line-height: 1.9;
+}
+
+.navbar-main {
+  background: transparent !important;
+  min-height: 5rem;
+}
+
+.navbar-brand {
+  opacity: 0.4;
+  transition: opacity 0.3s;
+}
+
+.navbar-brand:hover {
+  opacity: 1;
+}
+
+.jumbotron {
+  background-color: transparent;
+  margin-bottom: 0;
+  text-align: center;
 }
 
 .v-center {
@@ -15,7 +38,6 @@ body {
 }
 
 .footer {
-  background-color: #fff;
   position: absolute;
   bottom: 0;
   width: 100%;
