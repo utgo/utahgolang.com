@@ -2,3 +2,4 @@
 # https://git-scm.com/docs/gitignore
 
 *.deb
+public/
