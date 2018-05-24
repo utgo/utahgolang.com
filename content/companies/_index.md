@@ -80,6 +80,11 @@ layout = "single"
       <td></td>
     </tr>
     <tr>
+      <td>Sorenson Media</td>
+      <td>>Lehi</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Nuvi</td>
       <td>Lehi</td>
       <td><a href="https://github.com/nuvi?language=go">https://github.com/nuvi?language=go</a></td>
