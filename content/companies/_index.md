@@ -81,7 +81,7 @@ layout = "single"
     </tr>
     <tr>
       <td>Sorenson Media</td>
-      <td>>Lehi</td>
+      <td>Lehi</td>
       <td></td>
     </tr>
     <tr>
