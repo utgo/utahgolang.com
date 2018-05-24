@@ -17,3 +17,5 @@ following guidelines to keep things simple:
 * Separate each feature or improvement into a separate branch on a forked
   repository. Submit a pull request from each feature branch to this repository.
   Once all changes are merged, we'll rebuild the distributable `docs` folder.
+* The docs folder is auto generated from the build. It's generally not necessary
+  to manually build, as that will happen on redeploy.
