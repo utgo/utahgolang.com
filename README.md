@@ -1,7 +1,5 @@
 # Utah Golang Static Site
 
-[![Build Status](https://travis-ci.org/utgo/utahgolang.com.svg?branch=master)](https://travis-ci.org/utgo/utahgolang.com)
-
 The Utah Golang User Group website.
 
 ## Dependencies
