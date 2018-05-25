@@ -1,6 +1,6 @@
 +++
 title = "Companies"
-subtitle = "Utah Companies Using Go in Production and Sharing OSS"
+subtitle = "Utah Companies Participating in UTGO and OSS"
 slug = "companies"
 layout = "single"
 +++
