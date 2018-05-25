@@ -9,38 +9,49 @@ layout = "single"
   <thead>
     <tr>
       <th>Name</th>
-      <th>Proof</th>
-      <th>City</th>
+      <th width="100" class="text-center" align="center">Links</th>
+      <th width="200">City</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://nozzle.io/" target="_blank" rel="nofollow">Nozzle</a></td>
-      <td><a href="https://github.com/nozzle?tab=repositories&amp;language=go">https://github.com/nozzle</a></td>
+      <td align="center">
+        <a href="https://github.com/nozzle?tab=repositories&amp;language=go"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/company/nozzle/"><i class="fab fa-linkedin"></i></a>
+      </td>
       <td>South Jordan</td>
     </tr>
     <tr>
       <td><a href="https://www.nuvi.com/" target="_blank" rel="nofollow">Nuvi</a></td>
-      <td><a href="https://github.com/nuvi?tab=repositories&amp;language=go">https://github.com/nuvi</a></td>
+      <td align="center">
+        <a href="https://github.com/nuvi?tab=repositories&amp;language=go"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/company/nuvi/"><i class="fab fa-linkedin"></i></a>
+      </td>
       <td>Lehi</td>
     </tr>
     <tr>
       <td><a href="https://www.qualtrics.com/" target="_blank" rel="nofollow">Qualtrics</a></td>
-      <td>
-        <a href="/presentations/why-qualtrics-chose-go-and-why-you-should-too/">
-          <i class="fas fa-volume-up"></i> Why Qualtrics Chose Go... and Why You Should Too
-        </a>
+      <td align="center">
+        <i class="text-muted"><i class="fab fa-github"></i></i>
+        <a href="https://www.linkedin.com/company/qualtrics/"><i class="fab fa-linkedin"></i></a>
       </td>
       <td>Provo</td>
     </tr>
     <tr>
       <td><a href="https://www.vivint.com/" target="_blank" rel="nofollow">Vivint</a></td>
-      <td><a href="https://github.com/vivint?tab=repositories&amp;language=go">https://github.com/vivint</a></td>
+      <td align="center">
+        <a href="https://github.com/vivint?tab=repositories&amp;language=go"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/company/vivint/"><i class="fab fa-linkedin"></i></a>
+      </td>
       <td>Lehi</td>
     </tr>
     <tr>
       <td><a href="https://www.getweave.com/" target="_blank" rel="nofollow">Weave</a></td>
-      <td><a href="https://github.com/weave-lab?tab=repositories&amp;language=go">https://github.com/weave-lab</a></td>
+      <td align="center">
+        <a href="https://github.com/weave-lab?tab=repositories&amp;language=go"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/company/weave-communications/"><i class="fab fa-linkedin"></i></a>
+      </td>
       <td>Lehi</td>
     </tr>
   </tbody>
@@ -57,7 +68,7 @@ layout = "single"
   <thead>
     <tr>
       <th>Name</th>
-      <th>City</th>
+      <th width="200">City</th>
     </tr>
   </thead>
   <tbody>
