@@ -39,13 +39,48 @@
     </item>
     
     <item>
+      <title>Introduction to Core OS</title>
+      <link>http://utahgolang.com/presentations/introduction-to-core-os/</link>
+      <pubDate>Tue, 03 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://utahgolang.com/presentations/introduction-to-core-os/</guid>
+      <description>We&#39;re aware of some quality issues with this recording.    </description>
+    </item>
+    
+    <item>
+      <title>NSQ, A realtime distributed message queue</title>
+      <link>http://utahgolang.com/presentations/nsq-a-realtime-distributed-message-queue/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://utahgolang.com/presentations/nsq-a-realtime-distributed-message-queue/</guid>
+      <description>We&#39;re aware of some quality issues with this recording.    </description>
+    </item>
+    
+    <item>
+      <title>Build your own monitoring dashboard with Graphite, Statsd, &amp; Grafana</title>
+      <link>http://utahgolang.com/presentations/build-your-own-monitoring-system-with-graphite-statsd-grafana/</link>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://utahgolang.com/presentations/build-your-own-monitoring-system-with-graphite-statsd-grafana/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Shared Libraries with Go</title>
+      <link>http://utahgolang.com/presentations/shared-librarires-with-go/</link>
+      <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://utahgolang.com/presentations/shared-librarires-with-go/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
       <title>Battle Harden Your APIs with Go Fuzz</title>
       <link>http://utahgolang.com/presentations/battle-harden-apis-with-go-fuzz/</link>
       <pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>http://utahgolang.com/presentations/battle-harden-apis-with-go-fuzz/</guid>
-      <description>Our resident Go expert, Jason Newman, presented on GoFuzz for the August Lunch &amp;lsquo;n Go. The video is below, but it was our first recording so it isn&amp;rsquo;t great. We will get a microphone for the next presentation.
-  </description>
+      <description>We&#39;re aware of some quality issues with this recording.    </description>
     </item>
     
   </channel>
