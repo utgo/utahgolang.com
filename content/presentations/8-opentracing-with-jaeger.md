@@ -3,12 +3,7 @@ title = "OpenTracing with Jaeger"
 author = "Jason Newman"
 date = "2017-11-08"
 slug = "opentracing-with-jaeger"
-tags = []
 layout = "post"
-categories = [
-  "presentations"
-]
-thumbnail = "img/presentation-thumbnails/opentracing-with-jaeger.png"
 +++
 
 <div class="youtube-wrapper">

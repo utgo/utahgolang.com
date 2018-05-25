@@ -3,12 +3,7 @@ title = "Why Qualtrics Chose Go... and Why You Should Too"
 author = "Tyler Christensen & Jared Rerie"
 date = "2017-09-08"
 slug = "why-qualtrics-chose-go-and-why-you-should-too"
-tags = []
 layout = "post"
-categories = [
-  "presentations"
-]
-thumbnail = "img/presentation-thumbnails/why-qualtrics-chose-go-and-why-you-should-too.png"
 +++
 
 <div class="youtube-wrapper">

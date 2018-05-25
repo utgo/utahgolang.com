@@ -3,12 +3,7 @@ title = "Create your own DSL in Go"
 author = "Nathaniel Cook"
 date = "2017-08-16"
 slug = "create-your-own-dsl-in-go"
-tags = []
 layout = "post"
-categories = [
-  "presentations"
-]
-thumbnail = "img/presentation-thumbnails/create-your-own-dsl-in-go.png"
 +++
 
 <div class="youtube-wrapper">

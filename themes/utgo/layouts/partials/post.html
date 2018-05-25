@@ -4,8 +4,14 @@
 
     <header class="jumbotron">
       <div class="container">
-        <h1>{{ .Title }}</h1>
-        <h4 class="lead text-muted">Presented by {{ .Params.Author }} on {{ .Date.Format "January 2, 2006" }}</h4>
+        <h2>{{ .Title }}</h2>
+        <h4 class="lead text-muted">
+          Presented
+          {{ with .Params.Author }}
+             by {{ . }}
+          {{ end }}
+          on {{ .Date.Format "January 2, 2006" }}
+        </h4>
       </div>
     </header>
 
