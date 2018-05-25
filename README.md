@@ -1,5 +1,7 @@
 # Utah Golang Static Site
 
+[![Build Status](https://travis-ci.org/utgo/utahgolang.com.svg?branch=master)](https://travis-ci.org/utgo/utahgolang.com)
+
 The Utah Golang User Group website.
 
 ## Dependencies
@@ -16,6 +18,4 @@ following guidelines to keep things simple:
   styling rules (there aren't many)
 * Separate each feature or improvement into a separate branch on a forked
   repository. Submit a pull request from each feature branch to this repository.
-  Once all changes are merged, we'll rebuild the distributable `docs` folder.
-* The docs folder is auto generated from the build. It's generally not necessary
-  to manually build, as that will happen on redeploy.
+* Builds are automated by Travis, don't worry about it!
