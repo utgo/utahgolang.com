@@ -1,6 +1,6 @@
 +++
 title = "Companies"
-subtitle = "Utah Companies Participating in UTGO and OSS"
+subtitle = "Sponsors of UTGO"
 slug = "companies"
 layout = "single"
 +++
@@ -21,30 +21,6 @@ layout = "single"
         <a href="https://www.linkedin.com/company/nozzle/"><i class="fab fa-linkedin"></i></a>
       </td>
       <td>South Jordan</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.nuvi.com/" target="_blank" rel="nofollow">Nuvi</a></td>
-      <td align="center">
-        <a href="https://github.com/nuvi?tab=repositories&amp;language=go"><i class="fab fa-github"></i></a>
-        <a href="https://www.linkedin.com/company/nuvi/"><i class="fab fa-linkedin"></i></a>
-      </td>
-      <td>Lehi</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.qualtrics.com/" target="_blank" rel="nofollow">Qualtrics</a></td>
-      <td align="center">
-        <i class="text-muted"><i class="fab fa-github"></i></i>
-        <a href="https://www.linkedin.com/company/qualtrics/"><i class="fab fa-linkedin"></i></a>
-      </td>
-      <td>Provo</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.vivint.com/" target="_blank" rel="nofollow">Vivint</a></td>
-      <td align="center">
-        <a href="https://github.com/vivint?tab=repositories&amp;language=go"><i class="fab fa-github"></i></a>
-        <a href="https://www.linkedin.com/company/vivint/"><i class="fab fa-linkedin"></i></a>
-      </td>
-      <td>Lehi</td>
     </tr>
     <tr>
       <td><a href="https://www.getweave.com/" target="_blank" rel="nofollow">Weave</a></td>
@@ -68,6 +44,7 @@ layout = "single"
   <thead>
     <tr>
       <th>Name</th>
+      <th width="100" class="text-center" align="center">Links</th>
       <th width="200">City</th>
     </tr>
   </thead>
@@ -75,49 +52,85 @@ layout = "single"
     <tr>
       <td>Canopy</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Circlepix</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Light Code Labs</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Nav</td>
+      <td></td>
       <td>Draper</td>
     </tr>
     <tr>
       <td>Nokē</td>
+      <td></td>
+      <td>Lehi</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.nuvi.com/" target="_blank" rel="nofollow">Nuvi</a></td>
+      <td align="center">
+        <a href="https://github.com/nuvi?tab=repositories&amp;language=go"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/company/nuvi/"><i class="fab fa-linkedin"></i></a>
+      </td>
       <td>Lehi</td>
     </tr>
     <tr>
       <td>OC Tanner</td>
       <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.qualtrics.com/" target="_blank" rel="nofollow">Qualtrics</a></td>
+      <td align="center">
+        <i class="text-muted"><i class="fab fa-github"></i></i>
+        <a href="https://www.linkedin.com/company/qualtrics/"><i class="fab fa-linkedin"></i></a>
+      </td>
+      <td>Provo</td>
     </tr>
     <tr>
       <td>Smart Vision Works</td>
+      <td></td>
       <td>Orem</td>
     </tr>
     <tr>
       <td>Solutionreach</td>
+      <td></td>
       <td>Lehi</td>
     </tr>
     <tr>
       <td>Sorenson Media</td>
+      <td></td>
       <td>Lehi</td>
     </tr>
     <tr>
       <td>TechCyte</td>
+      <td></td>
       <td>Orem</td>
     </tr>
     <tr>
       <td>Travelpass</td>
+      <td></td>
+      <td>Lehi</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.vivint.com/" target="_blank" rel="nofollow">Vivint</a></td>
+      <td align="center">
+        <a href="https://github.com/vivint?tab=repositories&amp;language=go"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/company/vivint/"><i class="fab fa-linkedin"></i></a>
+      </td>
       <td>Lehi</td>
     </tr>
     <tr>
       <td>Voonami</td>
+      <td></td>
       <td>Orem/West Valley</td>
     </tr>
   </tbody>
