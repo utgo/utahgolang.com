@@ -65,6 +65,14 @@ layout = "single"
       <td></td>
     </tr>
     <tr>
+      <td><a href="https://mx.com" target="_blank" rel="nofollow">MX<a></td>
+      <td align="center">
+        <a href="https://github.com/mxenabled"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/company/mxenabled/"><i class="fab fa-linkedin"></i></a>
+      </td>
+      <td>Lehi</td>
+    </tr>
+    <tr>
       <td>Nav</td>
       <td></td>
       <td>Draper</td>
