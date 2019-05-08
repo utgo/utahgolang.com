@@ -60,6 +60,13 @@ layout = "single"
       <td></td>
     </tr>
     <tr>
+      <td>Domo</td>
+      <td align="center">
+        <a href="https://github.com/domoinc?tab=repositories&amp;language=go"><i class="fab fa-github"></i></a>
+      </td>
+      <td>American Fork</td>
+    </tr>
+    <tr>
       <td>Light Code Labs</td>
       <td></td>
       <td></td>
