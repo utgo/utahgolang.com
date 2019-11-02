@@ -13,7 +13,7 @@ SectionPagesMenu = "main"
 [[params.social]]
   name = "GitHub"
   weight = 2
-  url = "https://github.com/utgo/"
+  url = "https://github.com/forgeutah/"
 
 [[params.social]]
   name = "Twitter"
@@ -37,7 +37,7 @@ SectionPagesMenu = "main"
 
 # Open Source URL
 [params.github]
-  url = "https://github.com/utgo"
+  url = "https://github.com/forgeutah/utahgolang.com"
 
 # Menu links
 # All content aggregates are automatically included.
